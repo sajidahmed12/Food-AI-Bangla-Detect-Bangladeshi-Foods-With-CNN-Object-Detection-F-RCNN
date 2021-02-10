@@ -1,0 +1,42 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+cc10.jpg,768,512,chicken_curry,89,34,608,495
+cc15.jpg,500,454,chicken_curry,114,142,473,353
+cc20.jpg,500,454,chicken_curry,121,79,401,401
+cc25.jpg,600,600,chicken_curry,38,36,579,584
+cc30.jpg,736,981,chicken_curry,145,279,683,814
+cc35.jpg,427,375,chicken_curry,83,71,344,253
+cc40.jpg,850,850,chicken_curry,109,113,766,763
+cc45.jpg,1280,720,chicken_curry,49,89,1231,696
+cc5.jpg,420,280,chicken_curry,32,78,413,262
+cc50.jpg,600,338,chicken_curry,109,2,542,337
+khichuri 12.jpg,1000,563,khichuri,208,141,1000,517
+khichuri 15.jpg,900,660,khichuri,7,13,900,648
+khichuri 18.jpg,1020,574,khichuri,203,98,824,503
+khichuri 24.jpg,600,422,khichuri,141,23,569,399
+khichuri 27.jpg,1280,720,khichuri,605,99,1181,648
+khichuri 3.jpg,1280,720,khichuri,89,66,1134,692
+khichuri 30.jpg,1300,756,khichuri,47,7,1284,734
+khichuri 33.jpg,1280,720,khichuri,173,74,1050,682
+khichuri 6.jpg,1280,720,khichuri,66,52,1250,671
+khichuri 9.jpg,1080,1080,khichuri,26,38,1022,1046
+rice 11.jpg,1300,866,rice,239,282,1101,688
+rice 19.jpg,720,480,rice,205,17,668,392
+rice 22.jpg,1023,683,rice,157,146,831,521
+rice 27.jpg,640,427,rice,65,77,575,418
+rice 3.jpg,1200,1059,rice,118,121,1085,909
+rice 30.jpg,4032,3024,rice,321,37,3686,2640
+rice 35.jpg,1280,720,rice,196,28,1145,534
+rice 38.jpg,760,530,rice,86,30,681,399
+rice 43.jpg,1200,765,rice,51,84,1122,737
+rice 46.jpg,729,575,rice,75,50,667,411
+tehari 12.jpg,400,400,tehari,1,17,400,375
+tehari 16.jpg,480,360,tehari,23,47,465,330
+tehari 20.jpg,750,449,tehari,23,109,710,403
+tehari 24.jpg,960,720,tehari,42,140,907,720
+tehari 28.jpg,960,466,tehari,207,67,738,387
+tehari 32.jpg,960,540,tehari,315,77,727,439
+tehari 36.jpg,960,540,tehari,213,34,797,524
+tehari 4.jpg,800,508,tehari,173,64,665,466
+tehari 40.jpg,960,540,tehari,153,268,524,540
+tehari 40.jpg,960,540,tehari,488,143,730,306
+tehari 8.jpg,845,561,tehari,441,108,845,559

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cse-465 rice</folder>
+	<filename>rice 49.jpg</filename>
+	<path>C:\Users\Wheatstone\Desktop\cse-465 rice\rice 49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>849</width>
+		<height>565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>73</ymin>
+			<xmax>790</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

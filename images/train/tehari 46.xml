@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cse-465 tehari</folder>
+	<filename>tehari 46.jpg</filename>
+	<path>C:\Users\Wheatstone\Desktop\cse-465 tehari\tehari 46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>9</ymin>
+			<xmax>882</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

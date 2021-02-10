@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cse-465 chicken curry</folder>
+	<filename>cc23.jpg</filename>
+	<path>C:\Users\Wheatstone\Desktop\cse-465 chicken curry\cc23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>616</width>
+		<height>462</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken_curry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>151</ymin>
+			<xmax>494</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

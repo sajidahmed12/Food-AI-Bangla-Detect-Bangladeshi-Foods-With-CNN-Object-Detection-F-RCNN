@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cse-465 khichuri</folder>
+	<filename>khichuri 2.jpg</filename>
+	<path>C:\Users\Wheatstone\Desktop\cse-465 khichuri\khichuri 2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>khichuri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>7</ymin>
+			<xmax>246</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

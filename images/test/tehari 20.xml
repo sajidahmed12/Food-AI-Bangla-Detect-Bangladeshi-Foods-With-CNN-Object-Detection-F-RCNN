@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>tehari 20.jpg</filename>
+	<path>C:\Users\Wheatstone\Desktop\New folder\tehari 20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tehari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>109</ymin>
+			<xmax>710</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

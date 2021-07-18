@@ -1,1 +1,1 @@
-# Detection-Bengali-Foods-with-Convolutional-Neural-Network-Approach-Faster-R-CNN-Object-Detection-
+# Food-AI-Bangla-Ver.-0.01-Detect-Bangladeshi-Foods-With-CNN-Object-Detection-F-RCNN

@@ -12,6 +12,15 @@
 * tehari
 
 
+## Faster R-CNN Model Architecture 
+
+<p align="center">
+  <img src="assets/arch.png">
+</p>
+
+
+
+
 # How to use this model 
 
 ## 1. Install Anaconda, CUDA, and cuDNN
@@ -41,12 +50,21 @@ This Project  done using TensorFlow v1.13 and this [GitHub commit](https://githu
 Pre-trained classifiers with specific neural network architectures) in its [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md).
 
 
-## 4 . Label Pictures 
-it’s time to label the desired objects in every picture. LabelImg is a great tool for labeling images, and its GitHub page has very clear instructions on how to install and use it.
+## 4 . Label Datasets  
+it’s time to label the desired objects in every picture. Download the Dataset from this [link]() and download LabelImg from the link below. Labelmg is a great tool for labeling images, and its GitHub page has very clear instructions on how to install and use it.
 
 [LabelImg GitHub link](https://github.com/tzutalin/labelImg)
 
 [LabelImg download link](https://www.dropbox.com/s/tq7zfrcwl44vxan/windows_v1.6.0.zip?dl=1)
+
+
+## Our Dataset and Labeled data
+
+<p align="center">
+  <img src="assets/data_label.png">
+</p>
+
+
 
 Download and install LabelImg, point it to your \images\train directory, and then draw a box around each object in each image. Repeat the process for all the images in the \images\test directory.
 
@@ -68,20 +86,15 @@ python train.py --logtostderr --train_dir=training/ --pipeline_config_path=train
 (base) C:\dir\models\research\object_detection>tensorboard --logdir=training
 ```
 
+<p align="center">
+  <img src="assets/tensorboard.png">
+</p>
 
 ## 7 Results 
- * Detecting Foods with our trained Object Detection Model. 
-  
+* ### Detecting Foods with our trained Object Detection Model. 
+
 <p align="center">
   <img src="assets/result_gif.gif">
 </p>
 
-<p align="center">
-  <img src="doc/detector2.jpg">
-</p>
-
-
-<p align="center">
-  <img src="doc/detector2.jpg">
-</p>
 

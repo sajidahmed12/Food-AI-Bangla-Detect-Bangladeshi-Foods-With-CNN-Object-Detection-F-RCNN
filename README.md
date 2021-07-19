@@ -51,7 +51,7 @@ Pre-trained classifiers with specific neural network architectures) in its [mode
 
 
 ## 4 . Label Datasets  
-it’s time to label the desired objects in every picture. Download the Dataset from this [link]() and download LabelImg from the link below. Labelmg is a great tool for labeling images, and its GitHub page has very clear instructions on how to install and use it.
+it’s time to label the desired objects in every picture. Download the Dataset from this [link](./images/train) and download LabelImg from the link below. Labelmg is a great tool for labeling images, and its GitHub page has very clear instructions on how to install and use it.
 
 [LabelImg GitHub link](https://github.com/tzutalin/labelImg)
 
@@ -72,11 +72,11 @@ Download and install LabelImg, point it to your \images\train directory, and the
 With the images labeled, it’s time to generate the TFRecords that serve as input data to the TensorFlow training model. Use the xml_to_csv.py and generate_tfrecord.py
 
 
-## 6 Training
+## 6. Training
 
 * move train.py from /object_detection/legacy into the /object_detection folder.
 
-Here we go! From the \object_detection directory, run the following command to begin training:
+From the \object_detection directory, run the following command to begin training:
 ```
 python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training faster_rcnn_inception_v2_pets.config
 ```
@@ -90,11 +90,15 @@ python train.py --logtostderr --train_dir=training/ --pipeline_config_path=train
   <img src="assets/tensorboard.png">
 </p>
 
-## 7 Results 
+## 7. Results 
 * ### Detecting Foods with our trained Object Detection Model. 
 
 <p align="center">
   <img src="assets/result_gif.gif">
 </p>
 
+## 8. References:
+* [1] Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, NIPS’15 Proceedings.
 
+## Contact
+For questions about our paper or code, please contact [Md Sajid Ahmed](mailto:sajid.ahmed1@northsouth.edu).

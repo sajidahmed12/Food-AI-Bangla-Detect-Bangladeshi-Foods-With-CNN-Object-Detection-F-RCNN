@@ -1,8 +1,9 @@
 # Food-AI-Bangla-Ver.-0.01-Detect-Bangladeshi-Foods-With-CNN-Object-Detection-F-RCNN
 
 ## Introduction
-This is my project for Pattern Recognition Course. The Model Can detect total 4 Classes of Bangladeshi Foods. 
+This is my project for Pattern Recognition Course. 
 
+### This Model Can detect total 4 Classes of Bangladeshi Foods. 
 * chicken_curry
 * khichuri
 * rice

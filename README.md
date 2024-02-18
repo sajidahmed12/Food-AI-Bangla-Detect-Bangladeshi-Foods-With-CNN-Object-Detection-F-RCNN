@@ -1,4 +1,4 @@
-# BDFDET: Real-Time Bangladeshi Food Detection with F-RCNN Object Detection Model.
+# FoodAI: Real-Time Bangladeshi Food Detection with F-RCNN Object Detection Model.
 
 ## Introduction
 This is my project for the Pattern Recognition Course. 
